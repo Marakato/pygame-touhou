@@ -7,7 +7,7 @@ Just a demo of stg game written in python2.7 with pygame.
 
 ## 2. About Pictures and Music and SE
 
-All of these come from Touhou Project.
+**All of these come from Touhou Project.**
 
 ## 3. Why the codes are so bad?
 
