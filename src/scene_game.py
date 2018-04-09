@@ -67,7 +67,7 @@ class Scene_Game(object):
 
 		globe.BOSSING=False
 
-		globe.mgame.msmanager.play_BGM("abc.mp3")
+		#globe.mgame.msmanager.play_BGM("abc.mp3")
 
 	def stop(self):
 		self.pause=True

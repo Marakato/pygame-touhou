@@ -34,7 +34,7 @@ class TextPlayer(object):
 		self.lpic_av=False
 		self.rpic_av=False
 
-		self.font=pygame.font.Font('msyh.ttc',20)
+		self.font=pygame.font.SysFont('msyh.ttc',20)
 
 		self.rc=pygame.Rect(globe.playrc.left,globe.playrc.bottom-100,globe.playrc.width-128,100)
 
