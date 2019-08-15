@@ -18,6 +18,7 @@ global lentype
 
 global boss
 
+htmp = None
 
 class BloodStruct(object):
 	def __init__(self,mhsc,nowsc,mhnsc,nownsc,cp,np):
